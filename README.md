@@ -1,8 +1,10 @@
 ![Nscale Logo](./images/nscale_logo.png)
 
 <div align="center">
+
 | [Platform](https://console.nscale.com/auth/signup) | [Docs](https://docs.nscale.com/docs/getting-started/overview) | [Blog](https://www.nscale.com/blog) |
-|----------|-----------|-----------|
+|:----------:|:-------------:|:-----------:|
+
 </div>
 
 # Nscale-cookbooks

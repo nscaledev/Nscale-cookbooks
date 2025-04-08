@@ -1,4 +1,4 @@
-![Nscale Logo](https://nscale.com/images/nscale-logo.png)
+![Nscale Logo](./images/nscale-logo.png)
 
 | [Platform](https://console.nscale.com/auth/signup) | [Docs](https://docs.nscale.com/docs/getting-started/overview) | [Blog](https://www.nscale.com/blog) |
 |----------|-----------|-----------|
@@ -39,4 +39,4 @@ Looking for more resources to enhance your experience with LLM models? Check out
 - [Nscale API Reference](https://docs.nscale.com/api-reference/inferencing/list-models)
 - [Contact Support](help@nscale.com)
 
-![Nscale Inference](https://nscale.com/images/inference_service_nscale.png)
+![Nscale Inference](./images/inference_service_nscale.png)

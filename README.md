@@ -29,11 +29,14 @@ To make the most of the examples in this cookbook, you'll need an Nscale Serverl
 
 ## Cookbooks
 
+<div align="center">
+
 | Cookbook | Description |
-|----------|-------------|
+|:----------:|:-------------:|
 | **Category Name (e.g., Inference)** | |
 | [Link to Cookbook](#) | Description of Cookbook |
 
+</div>
 ## Learn More
 
 Looking for more resources to enhance your experience with LLM models? Check out these helpful links:

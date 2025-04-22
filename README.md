@@ -1,4 +1,8 @@
-![Nscale Logo](./images/nscale_logo.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/nscale-white-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/nscale-black-logo.png">
+  <img alt="nscale-logo" src="./images/nscale-white-logo.png">
+</picture>
 
 <div align="center">
 

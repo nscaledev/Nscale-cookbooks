@@ -34,7 +34,7 @@ To make the most of the examples in this cookbook, you'll need an Nscale Serverl
 | Cookbook | Description |
 |:----------:|:-------------:|
 | **RAG** | |
-| [arXiv multimodal RAG](https://github.com/nscaledev/nscale-cookbooks/blob/for_review/RAG/arxiv_multimodal_rag.ipynb) | Multimodal RAG to chat with arXiv papers |
+| [arXiv multimodal RAG](https://github.com/nscaledev/nscale-cookbooks/blob/main/RAG/arxiv_multimodal_rag.ipynb) | Multimodal RAG to chat with arXiv papers |
 
 </div>
 

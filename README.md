@@ -4,6 +4,8 @@
   <img alt="nscale-logo" src="./images/nscale-white-logo.png">
 </picture>
 
+<br><br>
+
 <div align="center">
 
 | [Platform](https://console.nscale.com/auth/signup) | [Docs](https://docs.nscale.com/docs/getting-started/overview) | [Blog](https://www.nscale.com/blog) |
